@@ -11,7 +11,6 @@ const scrape = async (source, option) => {
   const writeToFile = (data, fileName) => {
     let { rank, uni, totalScore, categoryScore } = data;
     let string = `${rank}\t${uni}\t${totalScore}\t${categoryScore}\n`;
-    //console.log(total);
     if (fs.existsSync(fileName)) {
       fs.appendFileSync(fileName, string);
     } else {
@@ -26,18 +25,6 @@ const scrape = async (source, option) => {
     );
     const $ = cheerio.load(data);
 
-    //check current score type
-    // should print out the same type 17 types if accurate
-    const btn = $(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li"
-    );
-    btn.each((_, element) => {
-      let el = $(element);
-      if (el.hasClass("select-active")) {
-        console.log(el.text());
-      }
-    });
-
     // process the data in the table
     const table = $("#content-box > div.rk-table-box > table > tbody > tr");
     table.each((_, element) => {
@@ -46,7 +33,6 @@ const scrape = async (source, option) => {
       let university = text[3].trim();
       let totalScore = text[5].trim();
       let categoryScore = text[7].trim();
-      //console.log(totalScore);
       // For debugging: console.log(`${ranking}\t${university}\t${totalScore}\t${categoryScore}`);
       writeToFile(
         {
@@ -60,57 +46,60 @@ const scrape = async (source, option) => {
     });
   };
 
+  const nextPageButton = "#content-box > ul > li.ant-pagination-next";
+  const changeScoreSelect =
+    "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div";
+  const scoreOption =
+    "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(1)";
+
+  const process = async () => {
+    await page.click(changeScoreSelect);
+  };
+
   const processQ1 = async () => {
+    await page.click(changeScoreSelect);
+    await page.click(
+      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(1)"
+    );
     await processTable("out/Q1.tsv");
-    // go next page
-    await page.click("#content-box > ul > li.ant-pagination-next");
+    await page.click(nextPageButton);
   };
 
   const processCNCI = async () => {
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div"
-    );
+    await page.click(changeScoreSelect);
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(2)"
     );
     await processTable("out/CNCI.tsv");
-    await page.click("#content-box > ul > li.ant-pagination-next");
+    await page.click(nextPageButton);
   };
 
   const processIC = async () => {
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div"
-    );
+    await page.click(changeScoreSelect);
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(3)"
     );
     await processTable("out/IC.tsv");
-    await page.click("#content-box > ul > li.ant-pagination-next");
+    await page.click(nextPageButton);
   };
 
   const processTOP = async () => {
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div"
-    );
+    await page.click(changeScoreSelect);
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(4)"
     );
     await processTable("out/TOP.tsv");
-    await page.click("#content-box > ul > li.ant-pagination-next");
+    await page.click(nextPageButton);
   };
 
   const processAward = async () => {
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div"
-    );
+    await page.click(changeScoreSelect);
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(5)"
     );
     await processTable("out/Award.tsv");
-    await page.click("#content-box > ul > li.ant-pagination-next");
+    await page.click(nextPageButton);
   };
-
-  let lastPage = 17;
 
   let options = {
     Q1: processQ1,
@@ -120,6 +109,7 @@ const scrape = async (source, option) => {
     AWARD: processAward,
   };
 
+  const lastPage = 17;
   for (let i = 0; i < lastPage; ++i) {
     // Only this and the page to go to has to be modified to reuse Script
     await options[option]();
