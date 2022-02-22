@@ -49,70 +49,27 @@ const scrape = async (source, option) => {
   const nextPageButton = "#content-box > ul > li.ant-pagination-next";
   const changeScoreSelect =
     "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div";
-  const scoreOption =
-    "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(1)";
 
-  const process = async () => {
-    await page.click(changeScoreSelect);
-  };
+  const process = async (op) => {
+    let options = {
+      Q1: 1,
+      CNCI: 2,
+      IC: 3,
+      TOP: 4,
+      AWARD: 5,
+    };
 
-  const processQ1 = async () => {
+    const scoreOption = `#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(${options[op]})`;
     await page.click(changeScoreSelect);
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(1)"
-    );
-    await processTable("out/Q1.tsv");
+    await page.click(scoreOption);
+    await processTable(`out/${op}.tsv`);
     await page.click(nextPageButton);
-  };
-
-  const processCNCI = async () => {
-    await page.click(changeScoreSelect);
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(2)"
-    );
-    await processTable("out/CNCI.tsv");
-    await page.click(nextPageButton);
-  };
-
-  const processIC = async () => {
-    await page.click(changeScoreSelect);
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(3)"
-    );
-    await processTable("out/IC.tsv");
-    await page.click(nextPageButton);
-  };
-
-  const processTOP = async () => {
-    await page.click(changeScoreSelect);
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(4)"
-    );
-    await processTable("out/TOP.tsv");
-    await page.click(nextPageButton);
-  };
-
-  const processAward = async () => {
-    await page.click(changeScoreSelect);
-    await page.click(
-      "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(5)"
-    );
-    await processTable("out/Award.tsv");
-    await page.click(nextPageButton);
-  };
-
-  let options = {
-    Q1: processQ1,
-    CNCI: processCNCI,
-    IC: processIC,
-    TOP: processTOP,
-    AWARD: processAward,
   };
 
   const lastPage = 17;
   for (let i = 0; i < lastPage; ++i) {
     // Only this and the page to go to has to be modified to reuse Script
-    await options[option]();
+    await process(option);
   }
   // close browser
   await browser.close();
