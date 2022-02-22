@@ -100,9 +100,9 @@ const cleanDirectory = async () => {
 
   for (const op in ops) {
     scrape(
-      "https://www.shanghairanking.com/rankings/gras/2021/RS0505",
+      "https://www.shanghairanking.com/rankings/gras/2021/RS0208",
       ops[op],
-      "Sociology"
+      "Biomedical Engineering"
     );
   }
 })();
