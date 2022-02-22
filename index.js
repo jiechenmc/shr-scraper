@@ -81,13 +81,16 @@ const cleanDirectory = async () => {
   // directory path
   const directory = "out";
 
+  // check if directory exist
+
+  if (!fs.existsSync(directory)) fs.mkdirSync(directory);
   // delete directory recursively
   fs.readdir(directory, (err, files) => {
     if (err) console.log(err);
 
     for (const file of files) {
-      fs.unlink(path.join(directory, file), (err) => {
-        if (err) console.log(err);
+      fs.unlink(path.join(directory, file), (error) => {
+        if (err) console.log(error);
       });
     }
   });
