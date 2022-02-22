@@ -1,0 +1,400 @@
+1	Harvard University	279.7	96.2
+2	Stanford University	262.3	100.0
+3	University of Michigan-Ann Arbor	257.2	72.0
+4	University of Oxford	254.6	54.4
+5	University of California, Berkeley	251.8	92.3
+6	University of Toronto	244.1	81.6
+7	The Ohio State University - Columbus	240.9	63.8
+8	Pennsylvania State University - University Park	236.8	60.9
+9	Cornell University	235.9	57.7
+10	University of Wisconsin - Madison	229.0	66.7
+11	University of Amsterdam	224.8	43.0
+12	The University of Texas at Austin	223.8	57.7
+13	Duke University	223.4	74.5
+14	University of California, Los Angeles	221.9	63.8
+15	Columbia University	219.2	86.1
+16	Princeton University	215.7	69.4
+17	University of North Carolina at Chapel Hill	212.7	60.9
+18	University of Chicago	212.1	74.5
+19	Indiana University Bloomington	209.4	60.9
+20	Northwestern University	209.2	69.4
+21	New York University	203.7	66.7
+22	University of California, Irvine	193.0	54.4
+23	London School of Economics and Political Science	192.2	33.3
+24	University of Washington	192.0	60.9
+25	The University of Manchester	191.6	19.2
+26	University of Minnesota, Twin Cities	185.2	50.9
+27	Yale University	185.1	66.7
+28	University of Maryland, College Park	182.8	43.0
+29	Purdue University - West Lafayette	175.3	43.0
+30	University of British Columbia	173.0	38.5
+31	Utrecht University	172.6	33.3
+32	University of Massachusetts Amherst	170.8	47.1
+33	University College London	168.6	27.2
+34	Stockholm University	167.3	27.2
+35	University of Copenhagen	164.4	33.3
+36	Michigan State University	162.8	19.2
+37	University of Pennsylvania	161.5	33.3
+38	University of Southern California	160.9	33.3
+39	The University of Edinburgh	160.1	19.2
+40	University of Cologne	159.5	38.5
+41	Massachusetts Institute of Technology (MIT)	159.0	54.4
+42	Brown University	157.3	47.1
+43	University of Arizona	151.9	38.5
+44	University of Illinois at Chicago	151.4	38.5
+45	Boston University	151.2	38.5
+46	Florida State University	151.0	27.2
+47	Cardiff University	148.6	0.0
+48	The University of Melbourne	147.2	19.2
+49	University of York	146.1	19.2
+50	McGill University	145.4	27.2
+50	The University of Sheffield	145.4	0.0
+51-75	Aarhus University		27.2
+51-75	Arizona State University		33.3
+51-75	Boston College		27.2
+51-75	Copenhagen Business School		19.2
+51-75	Johns Hopkins University		38.5
+51-75	The University of Queensland		0.0
+51-75	Tilburg University		27.2
+51-75	University of California, Davis		27.2
+51-75	University of California, San Diego		33.3
+51-75	University of California, Santa Barbara		33.3
+51-75	University of Cambridge		27.2
+51-75	University of Colorado at Boulder		19.2
+51-75	University of Connecticut		27.2
+51-75	Exeter University		19.2
+51-75	University of Helsinki		19.2
+51-75	University of Illinois at Urbana-Champaign		33.3
+51-75	University of Iowa		38.5
+51-75	University of Notre Dame		33.3
+51-75	University of Oslo		19.2
+51-75	University of South Carolina - Columbia		38.5
+51-75	University of Southampton		19.2
+51-75	University of Surrey		0.0
+51-75	University of Warwick		0.0
+51-75	University of Waterloo		27.2
+76-100	Baylor University		27.2
+76-100	Colorado State University		19.2
+76-100	Durham University		19.2
+76-100	Erasmus University Rotterdam		0.0
+76-100	Goethe University Frankfurt		27.2
+76-100	King's College London		0.0
+76-100	Newcastle University		0.0
+76-100	Northeastern University (Boston)		19.2
+76-100	Radboud University Nijmegen		19.2
+76-100	Rice University		19.2
+76-100	The Hong Kong Polytechnic University		0.0
+76-100	The University of Glasgow		0.0
+76-100	University at Albany (State University of New York)		33.3
+76-100	University of Antwerp		27.2
+76-100	University of Birmingham		0.0
+76-100	University of California, San Francisco		27.2
+76-100	University of Groningen		0.0
+76-100	University of Haifa		19.2
+76-100	University of Kansas		33.3
+76-100	University of Leeds		0.0
+76-100	University of Mannheim		19.2
+76-100	University of Nottingham		0.0
+76-100	Vrije Universiteit Amsterdam		19.2
+76-100	Washington State University		19.2
+76-100	Washington University in St. Louis		33.3
+101-150	Aalborg University		19.2
+101-150	Bowling Green State University		19.2
+101-150	Carlos III University of Madrid		27.2
+101-150	City University of Hong Kong		19.2
+101-150	Emory University		19.2
+101-150	Georgetown University		27.2
+101-150	Goldsmiths University London		0.0
+101-150	Humboldt University of Berlin		27.2
+101-150	KU Leuven		0.0
+101-150	Lancaster University		0.0
+101-150	Monash University		0.0
+101-150	National University of Singapore		19.2
+101-150	Royal Holloway, University of London		19.2
+101-150	Rutgers, The State University of New Jersey - New Brunswick		0.0
+101-150	Simon Fraser University		19.2
+101-150	Syracuse University		19.2
+101-150	Tel Aviv University		19.2
+101-150	Texas A&M University		19.2
+101-150	The Australian National University		0.0
+101-150	The Hebrew University of Jerusalem		19.2
+101-150	The University of Georgia		19.2
+101-150	The University of New Mexico - Albuquerque		27.2
+101-150	The University of New South Wales		0.0
+101-150	University of Alberta		0.0
+101-150	University of Bath		0.0
+101-150	University of Bologna		19.2
+101-150	University of Bremen		19.2
+101-150	University of Bristol		0.0
+101-150	University of California, Riverside		33.3
+101-150	University of Essex		0.0
+101-150	University of Greenwich		19.2
+101-150	University of Houston		19.2
+101-150	University of Johannesburg		19.2
+101-150	University of Kent		0.0
+101-150	University of Leicester		0.0
+101-150	University of Missouri - Columbia		19.2
+101-150	University of Munich		19.2
+101-150	University of Nebraska - Lincoln		19.2
+101-150	University of Oklahoma - Norman		19.2
+101-150	University of Oregon		19.2
+101-150	University of Pittsburgh		27.2
+101-150	University of Sussex		0.0
+101-150	University of Sydney		0.0
+101-150	University of Utah		27.2
+101-150	University of Virginia		27.2
+101-150	University of Zurich		0.0
+101-150	Vanderbilt University		33.3
+101-150	Virginia Polytechnic Institute and State University		0.0
+101-150	Wageningen University & Research		0.0
+101-150	Western University		0.0
+151-200	American University		19.2
+151-200	Autonomous University of Barcelona		0.0
+151-200	Bar-Ilan University		19.2
+151-200	Ben-Gurion University of the Negev		0.0
+151-200	Bielefeld University		19.2
+151-200	Carleton University		0.0
+151-200	City, University of London		0.0
+151-200	Clemson University		0.0
+151-200	Coventry University		0.0
+151-200	European University Institute		0.0
+151-200	Georgia State University		27.2
+151-200	Ghent University		0.0
+151-200	Griffith University		0.0
+151-200	Loughborough University		0.0
+151-200	Louisiana State University - Baton Rouge		0.0
+151-200	Lund University		0.0
+151-200	Maastricht University		0.0
+151-200	McMaster University		19.2
+151-200	Middlesex University		0.0
+151-200	Northumbria University		0.0
+151-200	Norwegian University of Science and Technology - NTNU		0.0
+151-200	PSL University		19.2
+151-200	Queen Mary University of London		0.0
+151-200	Queensland University of Technology		0.0
+151-200	Stony Brook University		19.2
+151-200	Sun Yat-sen University		0.0
+151-200	The Open University		0.0
+151-200	The University of Hong Kong		0.0
+151-200	Trinity College Dublin		19.2
+151-200	Tulane University		27.2
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0
+151-200	University College Dublin		0.0
+151-200	University of Aberdeen		0.0
+151-200	University of Bergen		0.0
+151-200	University of Bern		0.0
+151-200	University of Geneva		0.0
+151-200	University of Gothenburg		0.0
+151-200	University of Hamburg		19.2
+151-200	University of Huddersfield		0.0
+151-200	University of Kentucky		0.0
+151-200	University of Lausanne		0.0
+151-200	University of Liverpool		0.0
+151-200	University of Nevada-Las Vegas		0.0
+151-200	University of North Carolina at Charlotte		27.2
+151-200	University of Otago		0.0
+151-200	University of Southern Denmark		0.0
+151-200	University of Strathclyde		0.0
+151-200	University of Tennessee - Knoxville		19.2
+151-200	University of Trento		0.0
+151-200	University of Victoria		0.0
+151-200	Uppsala University		0.0

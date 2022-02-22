@@ -1,0 +1,510 @@
+1	University of Amsterdam	298.8	
+2	The Ohio State University - Columbus	274.6	
+3	Michigan State University	251.5	
+4	The University of Texas at Austin	249.6	
+5	Nanyang Technological University	225.9	
+6	University of Michigan-Ann Arbor	225.7	
+7	University of Vienna	224.2	
+8	University of California, Santa Barbara	224.1	
+9	University of Pennsylvania	223.1	
+10	Cornell University	211.8	
+11	Indiana University Bloomington	209.5	
+12	Vrije Universiteit Amsterdam	209.3	
+13	Pennsylvania State University - University Park	208.0	
+14	University of Wisconsin - Madison	206.2	
+15	Northwestern University	203.4	
+16	University of Oxford	201.4	
+17	University of Illinois at Urbana-Champaign	201.1	
+18	University of Zurich	199.0	
+19	University of Southern California	197.3	
+20	University of Munich	196.8	
+21	KU Leuven	193.3	
+22	The University of Georgia	193.2	
+23	Rutgers, The State University of New Jersey - New Brunswick	187.1	
+24	University of California, Davis	184.2	
+25	The Hebrew University of Jerusalem	184.0	
+26	University of Missouri - Columbia	183.8	
+27	Ghent University	183.6	
+28	London School of Economics and Political Science	182.8	
+29	University of Minnesota, Twin Cities	178.5	
+30	University of Arizona	177.5	
+31	University of Maryland, College Park	172.7	
+32	University of Utah	170.9	
+33	University of Washington	165.0	
+34	University of Kansas	161.9	
+35	Stanford University	161.7	
+36	University of Haifa	161.2	
+37	University of Iowa	160.6	
+38	University of Mainz	159.7	
+39	University of Antwerp	159.5	
+40	University of Groningen	159.0	
+41	University of Connecticut	157.7	
+42	Radboud University Nijmegen	157.5	
+42	University of Mannheim	157.5	
+44	University of Oregon	156.0	
+45	Temple University	153.4	
+46	Harvard University	152.9	
+47	Purdue University - West Lafayette	152.2	
+48	University of North Carolina at Chapel Hill	151.6	
+49	University of Helsinki	151.4	
+50	University of Gothenburg	150.0	
+51-75	Boston University		
+51-75	City, University of London		
+51-75	Erasmus University Rotterdam		
+51-75	George Mason University		
+51-75	Karlstad University		
+51-75	Louisiana State University - Baton Rouge		
+51-75	Monash University		
+51-75	National University of Singapore		
+51-75	New York University		
+51-75	Queensland University of Technology		
+51-75	Tel Aviv University		
+51-75	Texas A&M University		
+51-75	The Chinese University of Hong Kong		
+51-75	The George Washington University		
+51-75	The University of Alabama - Tuscaloosa		
+51-75	The University of Melbourne		
+51-75	University at Buffalo, the State University of New York		
+51-75	University of Colorado at Boulder		
+51-75	University of Florida		
+51-75	University of Hawaii at Manoa		
+51-75	University of Kentucky		
+51-75	University of Oslo		
+51-75	University of Sydney		
+51-75	University of Toronto		
+51-75	Washington State University		
+76-100	Arizona State University		
+76-100	Florida State University		
+76-100	Free University Berlin		
+76-100	Georgetown University		
+76-100	King's College London		
+76-100	Korea University		
+76-100	Loughborough University		
+76-100	National Chengchi University		
+76-100	Northeastern University (Boston)		
+76-100	Royal Holloway, University of London		
+76-100	Seoul National University		
+76-100	Sungkyunkwan University		
+76-100	Texas Tech University		
+76-100	The University of Koblenz-Landau		
+76-100	The University of New South Wales		
+76-100	Tilburg University		
+76-100	University Diego Portales		
+76-100	University of Copenhagen		
+76-100	University of Hohenheim		
+76-100	University of Illinois at Chicago		
+76-100	University of Muenster		
+76-100	University of Oklahoma - Norman		
+76-100	University of Twente		
+76-100	University of Wisconsin-Milwaukee		
+76-100	Utrecht University		
+101-150	Aarhus University		
+101-150	American University		
+101-150	Chapman University		
+101-150	Colorado State University		
+101-150	Columbia University		
+101-150	Concordia University		
+101-150	Deakin University		
+101-150	Georgia State University		
+101-150	Goldsmiths University London		
+101-150	Hong Kong Baptist University		
+101-150	Iowa State University		
+101-150	Johns Hopkins University		
+101-150	Leiden University		
+101-150	Macquarie University		
+101-150	Massey University		
+101-150	Pontifical Catholic University of Chile		
+101-150	RMIT University		
+101-150	Stockholm University		
+101-150	Syracuse University		
+101-150	Tampere University		
+101-150	Texas Christian University		
+101-150	The Australian National University		
+101-150	The University of Hong Kong		
+101-150	The University of Queensland		
+101-150	University at Albany (State University of New York)		
+101-150	University of Alberta		
+101-150	University of California, Berkeley		
+101-150	University of California, Los Angeles		
+101-150	University of Canberra		
+101-150	University of Cologne		
+101-150	University of Duisburg-Essen		
+101-150	University of Houston		
+101-150	University of Jyvaskyla		
+101-150	University of Leeds		
+101-150	University of Leicester		
+101-150	University of Massachusetts Amherst		
+101-150	University of Miami		
+101-150	University of Milan		
+101-150	University of Montreal		
+101-150	University of Salford		
+101-150	University of South Carolina - Columbia		
+101-150	University of Southern Denmark		
+101-150	University of Sussex		
+101-150	University of Tennessee - Knoxville		
+101-150	University of Turku		
+101-150	UOC Universitat Oberta de Catalunya		
+101-150	Villanova University		
+101-150	Wayne State University		
+101-150	West Virginia University		
+101-150	Western University		
+101-150	Yale University		
+151-200	Aalto University		
+151-200	Bar-Ilan University		
+151-200	BI Norwegian Business School		
+151-200	Bowling Green State University		
+151-200	Cardiff University		
+151-200	Carnegie Mellon University		
+151-200	Catholic University of the Sacred Heart		
+151-200	City University of Hong Kong		
+151-200	Copenhagen Business School		
+151-200	Dartmouth College		
+151-200	DePaul University		
+151-200	Drexel University		
+151-200	Dublin City University		
+151-200	Duke University		
+151-200	Illinois State University		
+151-200	Instituto Universitario de Lisboa		
+151-200	Kent State University		
+151-200	Massachusetts Institute of Technology (MIT)		
+151-200	North Carolina State University - Raleigh		
+151-200	Pompeu Fabra University		
+151-200	Roskilde University		
+151-200	Saint Louis University		
+151-200	San Diego State University		
+151-200	Stony Brook University		
+151-200	Sun Yat-sen University		
+151-200	Swinburne University of Technology		
+151-200	Texas State University-San Marcos		
+151-200	The University of Sheffield		
+151-200	The University of Western Australia		
+151-200	University College London		
+151-200	University of Arkansas at Fayetteville		
+151-200	University of Augsburg		
+151-200	University of Bath		
+151-200	University of Bern		
+151-200	University of Bologna		
+151-200	University of British Columbia		
+151-200	University of California, Irvine		
+151-200	University of Cambridge		
+151-200	University of Cincinnati		
+151-200	University of Nebraska - Lincoln		
+151-200	University of North Texas		
+151-200	University of Pittsburgh		
+151-200	University of South Florida		
+151-200	University of Surrey		
+151-200	University of Tasmania		
+151-200	University of Virginia		
+151-200	Utah State University		
+151-200	Vrije Universiteit Brussel (VUB)		
+151-200	Yonsei University		
+201-300	Aalborg University		
+201-300	Ariel University		
+201-300	Auburn University		
+201-300	Ben-Gurion University of the Negev		
+201-300	Birkbeck, University of London		
+201-300	Bournemouth University		
+201-300	Brunel University		
+201-300	California State University-Fullerton		
+201-300	California State University-Northridge		
+201-300	Carleton University		
+201-300	Central Michigan University		
+201-300	Charles University in Prague		
+201-300	Clemson University		
+201-300	Flinders University		
+201-300	Florida International University		
+201-300	Georgia Institute of Technology		
+201-300	Hanyang University		
+201-300	Heinrich Heine University Duesseldorf		
+201-300	Howard University		
+201-300	Indiana University-Purdue University at Indianapolis		
+201-300	Interdisciplinary Center (IDC) Herzliya		
+201-300	James Madison University		
+201-300	Jonkoping University		
+201-300	King Juan Carlos University		
+201-300	Korea Advanced Institute of Science and Technology		
+201-300	Lund University		
+201-300	McGill University		
+201-300	Miami University-Oxford		
+201-300	Middlesex University		
+201-300	Montclair State University		
+201-300	Newcastle University		
+201-300	Northumbria University		
+201-300	Norwegian University of Science and Technology - NTNU		
+201-300	Nottingham Trent University		
+201-300	Ohio University		
+201-300	Orebro University		
+201-300	Oslo Metropolitan University		
+201-300	Portland State University		
+201-300	Queen's University		
+201-300	Ryerson University		
+201-300	Simon Fraser University		
+201-300	Sodertorn University		
+201-300	Southern Methodist University		
+201-300	Stellenbosch University		
+201-300	The Open University		
+201-300	The University of Auckland		
+201-300	The University of Edinburgh		
+201-300	The University of Manchester		
+201-300	The University of Newcastle, Australia		
+201-300	The University of Texas at San Antonio		
+201-300	The University of Waikato		
+201-300	TU Dresden		
+201-300	Universidad Nacional de Educacion a Distancia (UNED)		
+201-300	Università Della Svizzera Italiana		
+201-300	Université libre de Bruxelles (ULB)		
+201-300	University of Barcelona		
+201-300	University of Bergen		
+201-300	University of Bremen		
+201-300	University of Bristol		
+201-300	University of California, Riverside		
+201-300	University of California, San Diego		
+201-300	University of California, San Francisco		
+201-300	University of Cape Town		
+201-300	University of Chicago		
+201-300	University of Colorado at Denver		
+201-300	University of Delaware		
+201-300	University of Denver		
+201-300	University of East Anglia		
+201-300	University of Essex		
+201-300	Exeter University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
+201-300	University of Fribourg		
+201-300	University of Hamburg		
+201-300	University of Huddersfield		
+201-300	University of Leipzig		
+201-300	University of Louisville		
+201-300	University of Minho		
+201-300	University of Navarra		
+201-300	University of Nevada - Reno		
+201-300	University of New Hampshire		
+201-300	University of North Carolina at Charlotte		
+201-300	University of Nottingham		
+201-300	University of Ottawa		
+201-300	University of Quebec Montreal		
+201-300	University of Salamanca		
+201-300	University of Seville		
+201-300	University of Southampton		
+201-300	University of Stirling		
+201-300	University of Technology Sydney		
+201-300	University of Texas at El Paso		
+201-300	University of the West of England		
+201-300	University of Waterloo		
+201-300	University of Westminster		
+201-300	University of Windsor		
+201-300	University of York		
+201-300	Vanderbilt University		
+201-300	Virginia Commonwealth University		
+201-300	Virginia Polytechnic Institute and State University		
+201-300	Wake Forest University		
+201-300	Western Michigan University		
+201-300	Western Sydney University		
