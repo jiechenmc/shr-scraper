@@ -59,9 +59,11 @@ const scrape = async (source, option) => {
       AWARD: 5,
     };
 
-    const scoreOption = `#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(${options[op]})`;
-    await page.click(changeScoreSelect);
-    await page.click(scoreOption);
+    if (op !== "Q1") {
+      const scoreOption = `#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(${options[op]})`;
+      await page.click(changeScoreSelect);
+      await page.click(scoreOption);
+    }
     await processTable(`out/${op}.tsv`);
     await page.click(nextPageButton);
   };
