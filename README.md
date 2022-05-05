@@ -2,4 +2,4 @@
 
 Code written for my Instutional Research job 
 <br>
-Used tools such as Puppeteer and Cheerio
+Used tools such as **Puppeteer** and **Cheerio**
