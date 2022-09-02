@@ -1,0 +1,500 @@
+1	Massachusetts Institute of Technology (MIT)	355.3	96.3
+2	Stanford University	315.6	82.6
+3	University of California, Berkeley	284.4	78.5
+4	Carnegie Mellon University	279.9	100.0
+5	ETH Zurich	264.0	67.6
+6	Tsinghua University	263.9	77.6
+7	Harvard University	252.4	52.5
+8	Nanyang Technological University	243.1	54.5
+9	University of Oxford	234.2	60.2
+10	University of California, Los Angeles	226.2	52.3
+11	University of Technology Sydney	224.6	47.2
+12	University of Electronic Science and Technology of China	223.8	33.4
+13	University of Toronto	223.1	54.0
+14	Princeton University	222.5	55.1
+15	National University of Singapore	219.8	52.3
+16	Shanghai Jiao Tong University	218.9	47.7
+17	University of Southern California	217.1	53.3
+18	Cornell University	216.4	57.8
+19	Zhejiang University	216.2	47.4
+20	University of North Carolina at Chapel Hill	214.7	27.7
+21	Harbin Institute of Technology	214.1	29.7
+22	Peking University	213.3	57.9
+23	Huazhong University of Science and Technology	210.4	24.1
+24	Beihang University	210.2	40.0
+24	The Chinese University of Hong Kong	210.2	53.0
+24	University of Science and Technology of China	210.2	46.2
+27	The University of Edinburgh	209.1	39.9
+28	Xidian University	208.4	30.2
+29	The University of Texas at Austin	206.5	56.2
+30	Georgia Institute of Technology	204.1	62.5
+31	University of Michigan-Ann Arbor	203.8	58.8
+32	New York University	201.8	43.3
+33	University College London	201.6	46.1
+34	University of Oslo	199.3	9.4
+35	Southeast University	199.0	20.7
+36	University of Washington	198.9	67.3
+37	City University of Hong Kong	198.4	26.6
+38	University of Sydney	196.9	38.4
+39	Imperial College London	196.6	44.4
+40	University of Wisconsin - Madison	194.7	42.5
+41	Dalian University of Technology	194.1	27.0
+42	The Hong Kong Polytechnic University	193.5	25.9
+43	Columbia University	193.1	49.0
+44	Northwestern Polytechnical University	192.9	28.8
+45	Sun Yat-sen University	191.5	36.5
+46	Beijing University of Posts and Telecommunications	190.6	26.3
+47	Wuhan University	190.3	22.6
+48	The University of Adelaide	190.1	30.7
+49	University of Montreal	189.4	31.6
+50	The Hong Kong University of Science and Technology	188.7	43.6
+50	University of Cambridge	188.7	42.4
+51-75	Aalto University		32.4
+51-75	Beijing Institute of Technology		27.3
+51-75	Central South University		8.3
+51-75	Johns Hopkins University		38.6
+51-75	King Abdulaziz University		2.5
+51-75	Nanjing University		41.7
+51-75	Nanjing University of Information Science & Technology		11.8
+51-75	Nanjing University of Science and Technology		23.3
+51-75	Shenzhen University		22.4
+51-75	South China University of Technology		23.3
+51-75	Swiss Federal Institute of Technology Lausanne		50.2
+51-75	Technical University of Munich		40.9
+51-75	The Australian National University		39.2
+51-75	The University of New South Wales		34.4
+51-75	Tianjin University		28.7
+51-75	University of Alberta		33.4
+51-75	University of British Columbia		36.4
+51-75	University of California, San Diego		50.7
+51-75	University of Copenhagen		26.6
+51-75	University of Illinois at Urbana-Champaign		58.2
+51-75	University of Maryland, College Park		49.7
+51-75	University of Waterloo		41.5
+51-75	Weizmann Institute of Science		33.8
+51-75	Xi'an Jiaotong University		25.3
+76-100	Arizona State University		37.0
+76-100	Deakin University		20.0
+76-100	Griffith University		18.3
+76-100	Guangdong University of Technology		12.1
+76-100	King Abdullah University of Science and Technology		29.3
+76-100	Korea Advanced Institute of Science and Technology		43.9
+76-100	KTH Royal Institute of Technology		32.3
+76-100	Michigan State University		25.2
+76-100	National University of Defense Technology		28.9
+76-100	Northeastern University (Shenyang)		10.4
+76-100	Northumbria University		24.4
+76-100	Paris-Saclay University		38.8
+76-100	PSL University		40.4
+76-100	Purdue University - West Lafayette		41.3
+76-100	Rutgers, The State University of New Jersey - New Brunswick		40.0
+76-100	Sichuan University		13.3
+76-100	Swinburne University of Technology		10.1
+76-100	Technical University of Denmark		15.7
+76-100	The University of Hong Kong		29.7
+76-100	The University of Melbourne		28.1
+76-100	Tongji University		17.4
+76-100	Université Grenoble Alpes		29.3
+76-100	University of California, Merced		25.4
+76-100	University of Macau		15.9
+76-100	University of Pennsylvania		47.4
+76-100	Xiamen University		22.9
+101-150	Beijing Jiaotong University		13.3
+101-150	Brown University		28.4
+101-150	Brunel University		6.2
+101-150	China University of Geosciences (Wuhan)		9.7
+101-150	Chongqing University		9.4
+101-150	Delft University of Technology		26.5
+101-150	Duke University		45.2
+101-150	Fudan University		32.7
+101-150	Guangzhou University		4.4
+101-150	Hamad Bin Khalifa University-Qatar		21.5
+101-150	Hefei University of Technology		16.7
+101-150	Heidelberg University		15.3
+101-150	Hunan University		8.7
+101-150	Institut Polytechnique de Paris		31.5
+101-150	King Saud University		3.6
+101-150	King's College London		19.6
+101-150	KU Leuven		34.3
+101-150	Lancaster University		26.5
+101-150	McGill University		29.9
+101-150	McMaster University		9.4
+101-150	Monash University		26.6
+101-150	Nanjing University of Aeronautics and Astronautics		18.1
+101-150	Nanjing University of Posts and Telecommunications		11.5
+101-150	New Jersey Institute of Technology		15.7
+101-150	Newcastle University		28.5
+101-150	Northeastern University (Boston)		43.3
+101-150	Polytechnic University of Milan		22.1
+101-150	RMIT University		21.5
+101-150	Seoul National University		39.9
+101-150	Shandong University		21.8
+101-150	Simon Fraser University		36.8
+101-150	Singapore Management University		26.1
+101-150	Singapore University of Technology & Design		25.3
+101-150	Temple University		18.0
+101-150	The Ohio State University - Columbus		28.2
+101-150	The University of Queensland		23.7
+101-150	The University of Texas at San Antonio		14.0
+101-150	The University of Tokyo		49.6
+101-150	University at Buffalo, the State University of New York		30.5
+101-150	University of California, Davis		26.5
+101-150	University of California, Irvine		33.1
+101-150	University of Florida		22.1
+101-150	University of Granada		4.4
+101-150	University of Iowa		21.2
+101-150	University of Minnesota, Twin Cities		38.2
+101-150	University of Southampton		23.5
+101-150	University of Surrey		13.8
+101-150	Victoria University		6.2
+101-150	Virginia Polytechnic Institute and State University		28.7
+151-200	Aalborg University		20.6
+151-200	Bohai University		0.0
+151-200	Carleton University		13.5
+151-200	Dalian Maritime University		6.2
+151-200	De Montfort University		0.0
+151-200	East China Normal University		24.4
+151-200	Hangzhou Dianzi University		13.1
+151-200	Hong Kong Baptist University		21.6
+151-200	Indiana University Bloomington		32.0
+151-200	International Institute of Information Technology Hyderabad		16.1
+151-200	Korea University		19.2
+151-200	Lulea University of Technology		3.6
+151-200	Macau University of Science and Technology		9.1
+151-200	Nankai University		19.5
+151-200	Northwestern University		36.0
+151-200	Pennsylvania State University - University Park		32.4
+151-200	Polytechnic University of Catalonia		23.2
+151-200	Qatar University		5.0
+151-200	Queen Mary University of London		22.4
+151-200	Radboud University Nijmegen		12.6
+151-200	Sapienza University of Rome		26.5
+151-200	Shanghai University		13.5
+151-200	Sorbonne University		29.9
+151-200	Southwest Jiaotong University		9.7
+151-200	Southwest University		9.4
+151-200	St. Francis Xavier University		0.0
+151-200	Stony Brook University		26.0
+151-200	Technion-Israel Institute of Technology		39.1
+151-200	Tel Aviv University		43.7
+151-200	Texas A and M University at Qatar		0.0
+151-200	Texas A&M University		30.3
+151-200	The University of Manchester		15.9
+151-200	The University of Texas at Arlington		25.0
+151-200	University at Albany (State University of New York)		15.1
+151-200	University of Amsterdam		28.0
+151-200	University of Birmingham		20.0
+151-200	University of Bristol		27.6
+151-200	University of Chicago		31.6
+151-200	University of Freiburg		26.9
+151-200	University of Houston		14.0
+151-200	University of Malaya		2.5
+151-200	University of Oulu		14.9
+151-200	University of Pittsburgh		30.3
+151-200	University of Science and Technology Beijing		7.1
+151-200	University of Warwick		21.3
+151-200	University of Wollongong		10.7
+151-200	Vanderbilt University		18.5
+151-200	Vienna University of Technology		33.3
+151-200	Yangzhou University		0.0
+151-200	York University		18.8
+201-300	Aarhus University		30.3
+201-300	Anhui University		10.1
+201-300	Beijing University of Technology		10.4
+201-300	Ben-Gurion University of the Negev		30.0
+201-300	Boston University		31.0
+201-300	California Institute of Technology		32.0
+201-300	Cardiff University		17.1
+201-300	Case Western Reserve University		12.6
+201-300	Changsha University of Science and Technology		2.5
+201-300	Chongqing University of Posts and Telecommunications		7.1
+201-300	COMSATS University Islamabad		2.5
+201-300	Concordia University		9.4
+201-300	Dongguan University of Technology		8.3
+201-300	Eindhoven University of Technology		25.4
+201-300	Fuzhou University		6.7
+201-300	Georgia State University		8.3
+201-300	Ghent University		14.0
+201-300	Graz University of Technology		21.9
+201-300	Harbin Engineering University		5.6
+201-300	Hohai University		4.4
+201-300	Huaqiao University		4.4
+201-300	Hunan University of Science and Technology		0.0
+201-300	Islamic Azad University		2.5
+201-300	Karlsruhe Institute of Technology (KIT)		21.6
+201-300	Liaoning University of Technology		0.0
+201-300	Macquarie University		14.9
+201-300	Missouri University of Science and Technology		10.4
+201-300	National Taiwan University		28.6
+201-300	National Taiwan University of Science and Technology		9.1
+201-300	North Carolina State University - Raleigh		20.4
+201-300	Qingdao University		2.5
+201-300	Queen's University Belfast		10.7
+201-300	Queensland University of Technology		26.6
+201-300	Qufu Normal University		0.0
+201-300	Rensselaer Polytechnic Institute		24.3
+201-300	RWTH Aachen University		24.4
+201-300	Sejong University		3.6
+201-300	Shandong Normal University		8.0
+201-300	Shandong University of Science and Technology		3.6
+201-300	Southern University of Science and Technology		15.3
+201-300	Stevens Institute of Technology		16.3
+201-300	Sungkyunkwan University		13.8
+201-300	SUNY New Paltz		0.0
+201-300	Swansea University		11.8
+201-300	Technical University Darmstadt		29.8
+201-300	Technical University of Berlin		26.1
+201-300	Thapar Institute of Engineering and Technology		0.0
+201-300	The University of Auckland		19.0
+201-300	The University of Glasgow		20.4
+201-300	The University of Sheffield		16.7
+201-300	The University of Texas at Dallas		23.1
+201-300	Università Della Svizzera Italiana		15.9
+201-300	Universiti Teknologi Malaysia		5.6
+201-300	University of Arizona		15.7
+201-300	University of Bern		11.8
+201-300	University of Bonn		24.8
+201-300	University of Calabria		16.9
+201-300	University of California, Riverside		21.0
+201-300	University of California, Santa Barbara		30.2
+201-300	University of Central Florida		24.1
+201-300	University of Colorado at Boulder		30.2
+201-300	University of Essex		7.5
+201-300	Exeter University		8.3
+201-300	University of Fortaleza (UNIFOR)		0.0
+201-300	University of Geneva		7.5
+201-300	University of Helsinki		20.9
+201-300	University of Idaho		0.0
+201-300	University of Illinois at Chicago		28.6
+201-300	University of Jordan		2.5
+201-300	University of Kentucky		14.9
+201-300	University of Lisbon		21.9
+201-300	University of Liverpool		21.9
+201-300	University of Luxembourg		15.9
+201-300	University of Massachusetts Amherst		36.6
+201-300	University of Montpellier		19.2
+201-300	University of Munich		23.7
+201-300	University of Naples Federico II		14.0
+201-300	University of North Carolina at Charlotte		18.0
+201-300	University of Notre Dame		17.4
+201-300	University of Nottingham		23.7
+201-300	University of Padua		16.3
+201-300	University of Salerno		12.6
+201-300	University of South Australia		14.2
+201-300	University of South Carolina - Columbia		12.1
+201-300	University of Tehran		10.1
+201-300	University of Trento		21.9
+201-300	University of Twente		17.2
+201-300	University of Utah		26.3
+201-300	University of Victoria		10.1
+201-300	University of Virginia		24.1
+201-300	University of Zurich		19.6
+201-300	Utrecht University		14.9
+201-300	Washington University in St. Louis		24.3
+201-300	Wenzhou University		7.1
+201-300	West Virginia University		15.5
+201-300	Western Sydney University		10.7
+201-300	Western University		13.1
+201-300	Xi'an Jiaotong-Liverpool University		6.2
+201-300	Yale University		31.9
+201-300	Yeungnam University		2.5
+201-300	Yonsei University		18.8
+201-300	Zhejiang University of Technology		7.1
+301-400	Auburn University		6.7
+301-400	Beijing Normal University		11.5
+301-400	Binghamton University		13.5
+301-400	Catholic University of Louvain		11.0
+301-400	Chalmers University of Technology		22.2
+301-400	China University of Mining and Technology (Xuzhou)		2.5
+301-400	China University of Petroleum (Huadong)		5.0
+301-400	City, University of London		11.5
+301-400	Czech Technical University in Prague		24.3
+301-400	Donghua University		4.4
+301-400	Duy Tan University		0.0
+301-400	East China University of Science and Technology		4.4
+301-400	Ecole de Technologie Superieure - Canada		8.3
+301-400	Federal University of Minas Gerais		15.5
+301-400	Florida International University		10.4
+301-400	Fujian Normal University		2.5
+301-400	Fujian University of Technology		2.5
+301-400	Guangxi Normal University		6.2
+301-400	Guilin University of Electronic Technology		6.2
+301-400	Humboldt University of Berlin		11.8
+301-400	Illinois Institute of Technology		13.1
+301-400	Indian Institute of Technology Kharagpur		12.1
+301-400	Iowa State University		17.2
+301-400	Jiangnan University		4.4
+301-400	Jilin University		12.6
+301-400	Jinan University		9.7
+301-400	Khalifa University		11.3
+301-400	Kyung Hee University		6.2
+301-400	La Trobe University		5.0
+301-400	Lehigh University		13.5
+301-400	Leiden University		14.0
+301-400	Linkoping University		16.1
+301-400	Loughborough University		7.5
+301-400	Lund University		16.5
+301-400	Mayo Clinic Alix School of Medicine		5.6
+301-400	Memorial University of Newfoundland		8.0
+301-400	Middlesex University		11.0
+301-400	Nanjing Normal University		3.6
+301-400	National Yang Ming Chiao Tung University		17.1
+301-400	North China Electric Power University		0.0
+301-400	Norwegian University of Science and Technology - NTNU		14.0
+301-400	Old Dominion University		7.5
+301-400	Polytechnic University of Madrid		7.1
+301-400	Polytechnic University of Valencia		7.5
+301-400	Pompeu Fabra University		17.6
+301-400	Quaid-i-Azam University		2.5
+301-400	Renmin University of China		20.1
+301-400	Rice University		26.3
+301-400	Ryerson University		10.4
+301-400	Shandong University of Finance and Economics		2.5
+301-400	ShanghaiTech University		18.8
+301-400	Sichuan Normal University		0.0
+301-400	Soochow University (China)		13.3
+301-400	Southwestern University of Finance and Economics		4.4
+301-400	Tampere University		13.3
+301-400	The Hebrew University of Jerusalem		30.7
+301-400	The University of Calgary		19.2
+301-400	The University of New Mexico - Albuquerque		13.1
+301-400	The University of Newcastle, Australia		7.1
+301-400	The University of Western Australia		12.6
+301-400	Tohoku University		16.9
+301-400	Ton Duc Thang University		0.0
+301-400	TU Dresden		23.6
+301-400	University College Dublin		11.0
+301-400	University of Arkansas at Fayetteville		11.5
+301-400	University of Bologna		16.7
+301-400	University of Coimbra		13.5
+301-400	University of Duisburg-Essen		9.7
+301-400	University of Goettingen		7.1
+301-400	University of Groningen		11.3
+301-400	University of Jaen		0.0
+301-400	University of Jyvaskyla		6.2
+301-400	University of Leeds		12.3
+301-400	University of Leicester		9.1
+301-400	University of Manitoba		12.3
+301-400	University of Miami		7.5
+301-400	University of Muenster		6.7
+301-400	University of North Texas		9.7
+301-400	University of Ottawa		10.7
+301-400	University of Peshawar		0.0
+301-400	University of Pisa		17.1
+301-400	University of Quebec Montreal		6.2
+301-400	University of Rochester		30.0
+301-400	University of Sao Paulo		16.9
+301-400	University of Saskatchewan		16.9
+301-400	University of Shanghai for Science and Technology		5.6
+301-400	University of Sherbrooke		9.4
+301-400	University of Stuttgart		23.3
+301-400	University of Sussex		15.9
+301-400	University of Vienna		15.5
+301-400	Uppsala University		18.7
+301-400	Vellore Institute of Technology		2.5
+301-400	Victoria University of Wellington		12.1
+301-400	Wageningen University & Research		4.4
+301-400	Washington State University		17.1
+301-400	Wuhan University of Science and Technology		4.4
+301-400	Wuhan University of Technology		7.1
+301-400	Zagazig University		0.0
+301-400	Zhongnan University of Economics and Law		2.5
+401-500	Amirkabir University of Technology		5.6
+401-500	Aristotle University of Thessaloniki		8.7
+401-500	Autonomous University of Barcelona		13.3
+401-500	Autonomous University of Madrid		9.4
+401-500	Bar-Ilan University		27.0
+401-500	Beijing University of Chemical Technology		5.6
+401-500	Cairo University		3.6
+401-500	Carlos III University of Madrid		10.1
+401-500	Clemson University		13.8
+401-500	Cranfield University		3.6
+401-500	Curtin University		5.0
+401-500	Dartmouth College		20.9
+401-500	Drexel University		19.6
+401-500	Durham University		10.1
+401-500	Erasmus University Rotterdam		3.6
+401-500	Florida State University		12.8
+401-500	Free University of Bozen-Bolzano		14.7
+401-500	George Mason University		20.4
+401-500	Hanyang University		13.5
+401-500	Henan University		4.4
+401-500	Heriot-Watt University		13.8
+401-500	Indian Institute of Science		26.9
+401-500	Indian Institute of Technology Bombay		22.2
+401-500	Indian Institute of Technology Delhi		17.4
+401-500	ITMO University		6.2
+401-500	Jiangxi University of Finance & Economics		0.0
+401-500	Johannes Kepler University Linz		12.1
+401-500	Jordan University of Science and Technology		0.0
+401-500	Kyoto University		21.9
+401-500	Kyungpook National University		5.0
+401-500	Kyushu Institute of Technology		6.7
+401-500	Lanzhou University		2.5
+401-500	Laval University		14.9
+401-500	Liaocheng University		0.0
+401-500	Liverpool John Moores University		3.6
+401-500	Mansoura University		0.0
+401-500	Massey University		6.7
+401-500	Nanchang University		2.5
+401-500	National Cheng Kung University		11.0
+401-500	National Technical University of Athens		18.3
+401-500	National Tsing Hua University		18.7
+401-500	National University of Sciences and Technology Pakistan		5.0
+401-500	North Dakota State University		0.0
+401-500	Northeast Normal University		9.4
+401-500	NOVA University Lisbon		10.4
+401-500	Ocean University of China		5.6
+401-500	Oklahoma State University		7.5
+401-500	Ontario Tech University		11.0
+401-500	Oregon State University		27.0
+401-500	Osaka University		23.7
+401-500	Paul Sabatier University (Toulouse 3)		12.6
+401-500	Pohang University of Science and Technology		23.1
+401-500	Polytechnic University of Turin		9.4
+401-500	Qingdao University of Science and Technology		0.0
+401-500	Queen's University		10.1
+401-500	SASTRA Deemed University		0.0
+401-500	Shanghai Maritime University		0.0
+401-500	Shanxi University		5.6
+401-500	Sharif University of Technology		13.5
+401-500	Stockholm University		10.7
+401-500	The George Washington University		12.3
+401-500	The University of Georgia		15.5
+401-500	Tianjin University of Technology		3.6
+401-500	Trinity College Dublin		11.8
+401-500	Ulsan National Institute of Science and Technology		19.2
+401-500	University of Aizu		3.6
+401-500	University of Bath		18.7
+401-500	University of Bergen		10.4
+401-500	University of California, Santa Cruz		26.5
+401-500	University of Campinas		14.7
+401-500	University of Chile		10.4
+401-500	University of Connecticut		14.2
+401-500	University of Delaware		16.3
+401-500	University of Erlangen-Nuremberg		11.5
+401-500	University of Hamburg		10.1
+401-500	University of Konstanz		13.8
+401-500	University of Lille		18.5
+401-500	University of Ljubljana		9.7
+401-500	University of Lorraine		16.1
+401-500	University of Malaga		10.1
+401-500	University of Missouri - Columbia		9.1
+401-500	University of Nebraska - Lincoln		11.0
+401-500	University of New Brunswick		7.5
+401-500	University of Paris		21.3
+401-500	University of Porto		11.5
+401-500	University of Rennes 1		20.7
+401-500	University of Salamanca		3.6
+401-500	University of Seville		9.1
+401-500	University of South Florida		8.7
+401-500	University of Tennessee - Knoxville		12.8
+401-500	University of the Basque Country		7.1
+401-500	University of Tuebingen		22.8
+401-500	University of Windsor		4.4
+401-500	University of Wuerzburg		9.7
+401-500	Vrije Universiteit Brussel (VUB)		12.8
+401-500	Wayne State University		7.5
+401-500	Zhejiang Gongshang University		7.1
+401-500	Zhejiang Normal University		5.0
+401-500	Zhengzhou University		7.1

@@ -1,0 +1,500 @@
+1	Harvard University	353.6	95.6
+2	University College London	304.0	88.6
+3	Columbia University	298.6	90.9
+4	Massachusetts Institute of Technology (MIT)	290.3	100.0
+5	Rockefeller University	274.8	100.0
+6	University of California, Los Angeles	243.9	85.8
+7	The University of Texas M. D. Anderson Cancer Center	243.3	97.2
+8	The University of Texas Southwestern Medical Center at Dallas	239.3	85.6
+9	University of Zurich	238.8	85.4
+10	University of Cambridge	229.9	90.8
+11	University of California, San Francisco	229.2	97.5
+12	Stanford University	227.8	100.0
+13	Kyoto University	219.4	71.1
+14	University of Pennsylvania	217.1	94.8
+15	Johns Hopkins University	214.8	90.1
+16	University of California, San Diego	213.8	92.7
+17	Norwegian University of Science and Technology - NTNU	209.4	73.1
+18	University of Oxford	209.0	89.3
+19	Yale University	207.0	92.2
+20	Washington University in St. Louis	205.0	98.9
+21	Icahn School of Medicine at Mount Sinai	200.0	95.8
+22	University of Gothenburg	199.7	85.9
+23	Cornell University	198.3	94.0
+24	Karolinska Institute	198.2	85.6
+25	University of Toronto	197.3	83.5
+26	University of Washington	196.6	89.3
+27	University of Strasbourg	195.1	80.3
+28	The University of Texas Health Science Center at Houston	194.3	79.5
+29	California Institute of Technology	193.4	98.0
+30	The University of Melbourne	193.1	86.6
+31	New York University	192.3	91.3
+32	Imperial College London	190.8	90.0
+33	King's College London	190.3	90.7
+34	University of Pittsburgh	188.9	87.1
+35	University of Munich	187.8	88.9
+36	University of North Carolina at Chapel Hill	186.4	91.1
+37	McGill University	184.9	83.6
+38	The University of Western Australia	184.4	76.5
+39	Duke University	183.6	85.6
+40	Free University Berlin	182.8	86.8
+41	Sorbonne University	182.2	84.0
+42	Humboldt University of Berlin	182.0	86.6
+43	Charite - Universitats Medizin Berlin	181.3	88.5
+44	University of Paris	180.6	84.3
+45	University of Michigan-Ann Arbor	179.9	87.6
+46	Emory University	179.6	86.1
+47	University of Basel	177.3	88.6
+48	University of California, Berkeley	176.3	96.9
+49	Heidelberg University	175.7	85.0
+50	Technical University of Munich	175.2	93.2
+50	University of Amsterdam	175.2	86.7
+51-75	Baylor College of Medicine		83.9
+51-75	Boston University		86.2
+51-75	Erasmus University Rotterdam		87.5
+51-75	ETH Zurich		90.8
+51-75	KU Leuven		85.1
+51-75	Leiden University		85.0
+51-75	Mayo Clinic Alix School of Medicine		87.4
+51-75	Monash University		82.0
+51-75	Northwestern University		85.9
+51-75	Radboud University Nijmegen		81.9
+51-75	The University of Edinburgh		88.7
+51-75	The University of Manchester		90.3
+51-75	The University of Queensland		83.0
+51-75	University of Bonn		92.2
+51-75	University of Chicago		91.5
+51-75	University of Copenhagen		81.4
+51-75	University of Freiburg		91.1
+51-75	University of Lausanne		89.2
+51-75	University of Massachusetts Medical School - Worcester		94.5
+51-75	University of Minnesota, Twin Cities		82.5
+51-75	University of Southern California		86.6
+51-75	Utrecht University		87.1
+51-75	Vanderbilt University		87.5
+51-75	Weizmann Institute of Science		96.5
+76-100	Aix Marseille University		75.4
+76-100	Cardiff University		87.6
+76-100	Case Western Reserve University		84.3
+76-100	Ghent University		83.6
+76-100	Medical University of Vienna		83.9
+76-100	National University of Singapore		83.1
+76-100	Oregon Health and Science University		86.4
+76-100	Paris-Saclay University		83.8
+76-100	Princeton University		97.1
+76-100	Queen Mary University of London		89.7
+76-100	Swiss Federal Institute of Technology Lausanne		98.1
+76-100	The University of Tokyo		71.7
+76-100	Trinity College Dublin		95.0
+76-100	University of Alabama at Birmingham		85.2
+76-100	University of Barcelona		79.9
+76-100	University of British Columbia		80.4
+76-100	University of California, Irvine		85.4
+76-100	University of Colorado Health Science Center		84.3
+76-100	University of Geneva		81.3
+76-100	University of Goettingen		89.2
+76-100	University of Hamburg		82.5
+76-100	University of Oslo		82.1
+76-100	University of Sydney		82.6
+76-100	University of Tuebingen		81.8
+76-100	University of Virginia		92.1
+76-100	Vrije Universiteit Amsterdam		83.6
+101-150	Aarhus University		79.6
+101-150	Albert Einstein College of Medicine		81.9
+101-150	Autonomous University of Barcelona		80.7
+101-150	Hannover Medical School		78.5
+101-150	Heinrich Heine University Duesseldorf		83.6
+101-150	Indiana University Bloomington		82.0
+101-150	London School of Hygiene & Tropical Medicine		77.6
+101-150	Lund University		81.1
+101-150	Maastricht University		75.6
+101-150	McMaster University		87.3
+101-150	Newcastle University		92.4
+101-150	Osaka University		74.5
+101-150	State University of New York Health Science Center at Brooklyn		61.1
+101-150	The Ohio State University - Columbus		79.7
+101-150	The University of Calgary		82.8
+101-150	The University of Glasgow		86.4
+101-150	The University of New South Wales		80.3
+101-150	Tsinghua University		83.1
+101-150	TU Dresden		84.0
+101-150	University of Bern		79.2
+101-150	University of Birmingham		83.0
+101-150	University of Bordeaux		78.1
+101-150	University of Bristol		84.5
+101-150	University of California, Davis		82.6
+101-150	University of Cape Town		83.2
+101-150	University of Cincinnati		81.5
+101-150	University of Cologne		83.1
+101-150	University of Erlangen-Nuremberg		83.2
+101-150	University of Florida		74.4
+101-150	University of Groningen		82.5
+101-150	University of Helsinki		80.5
+101-150	University of Iowa		85.1
+101-150	University of Kiel		86.0
+101-150	University of Mainz		84.6
+101-150	University of Maryland, Baltimore		80.2
+101-150	University of Miami		80.7
+101-150	University of Milan		78.9
+101-150	University of Montpellier		78.9
+101-150	University of Montreal		77.9
+101-150	University of Muenster		84.0
+101-150	University of Regensburg		87.9
+101-150	University of Rochester		83.1
+101-150	University of Southampton		89.0
+101-150	University of Utah		79.5
+101-150	University of Wisconsin - Madison		82.5
+101-150	University of Wuerzburg		84.8
+101-150	Vita-Salute San Raffaele University		85.6
+101-150	Weill Cornell Medical College Qatar		97.5
+101-150	Yeshiva University		83.7
+151-200	Brown University		82.2
+151-200	Catholic University of Louvain		83.5
+151-200	Claude Bernard University Lyon 1		75.0
+151-200	Dartmouth College		82.7
+151-200	Fudan University		66.1
+151-200	Goethe University Frankfurt		81.4
+151-200	Humanitas University		100.0
+151-200	Keio University		76.5
+151-200	Medical University of Graz		91.4
+151-200	Medical University of Innsbruck		83.4
+151-200	Medical University of South Carolina		79.4
+151-200	Nanyang Technological University		79.0
+151-200	Paul Sabatier University (Toulouse 3)		78.9
+151-200	Peking Union Medical College		69.6
+151-200	Peking University		66.4
+151-200	Pompeu Fabra University		83.9
+151-200	PSL University		77.4
+151-200	Rush University		85.7
+151-200	Rutgers, The State University of New Jersey - New Brunswick		77.1
+151-200	Shanghai Jiao Tong University		66.6
+151-200	ShanghaiTech University		96.0
+151-200	Sun Yat-sen University		68.7
+151-200	Technical University of Denmark		90.8
+151-200	Tel Aviv University		73.0
+151-200	The Hebrew University of Jerusalem		76.2
+151-200	The University of Dundee		85.6
+151-200	The University of Texas at Austin		84.2
+151-200	The University of Texas Health Science Center at San Antonio		88.3
+151-200	The University of Texas Medical Branch at Galveston		81.7
+151-200	Thomas Jefferson University		81.5
+151-200	Università Della Svizzera Italiana		88.4
+151-200	Université libre de Bruxelles (ULB)		81.4
+151-200	University of Aberdeen		85.9
+151-200	University of Alberta		78.4
+151-200	University of Bergen		85.0
+151-200	University of Colorado at Boulder		86.7
+151-200	University of Duisburg-Essen		79.4
+151-200	University of Illinois at Chicago		73.3
+151-200	University of Leipzig		77.8
+151-200	University of Liverpool		78.3
+151-200	University of Luebeck		81.4
+151-200	University of Marburg		83.2
+151-200	University of Naples Federico II		79.6
+151-200	University of Sao Paulo		65.1
+151-200	University of Southern Denmark		82.3
+151-200	University of Turin		79.3
+151-200	University of Ulm		81.2
+151-200	University of Warwick		84.3
+151-200	Uppsala University		79.2
+151-200	Zhejiang University		65.7
+201-300	Aalto University		79.5
+201-300	Army Medical University		66.0
+201-300	Augusta University		83.6
+201-300	Autonomous University of Madrid		72.4
+201-300	Brescia University		81.5
+201-300	Carnegie Mellon University		83.4
+201-300	Delft University of Technology		89.5
+201-300	Drexel University		74.9
+201-300	Georgetown University		76.4
+201-300	Georgia Institute of Technology		80.6
+201-300	Georgia State University		83.5
+201-300	Hokkaido University		66.7
+201-300	Huazhong University of Science and Technology		67.2
+201-300	Indiana University-Purdue University at Indianapolis		78.0
+201-300	James Cook University		77.7
+201-300	King Abdulaziz University		84.8
+201-300	Korea Advanced Institute of Science and Technology		85.0
+201-300	Kyushu University		70.3
+201-300	Laval University		76.1
+201-300	Liverpool School of Tropical Medicine		75.8
+201-300	Mahidol University		67.6
+201-300	Medical College of Wisconsin		77.6
+201-300	Michigan State University		75.1
+201-300	National and Kapodistrian University of Athens		73.4
+201-300	Pennsylvania State University - University Park		75.7
+201-300	Purdue University - West Lafayette		81.2
+201-300	Queen's University Belfast		82.7
+201-300	Rutgers University - Newark		76.4
+201-300	RWTH Aachen University		74.3
+201-300	Sapienza University of Rome		75.0
+201-300	Seoul National University		66.6
+201-300	Stockholm University		78.7
+201-300	Stony Brook University		79.9
+201-300	Technion-Israel Institute of Technology		83.5
+201-300	Temple University		76.1
+201-300	Texas A&M Health Science Center		88.7
+201-300	Texas A&M University		77.8
+201-300	The Australian National University		76.3
+201-300	The Chinese University of Hong Kong		74.5
+201-300	The George Washington University		76.2
+201-300	The University of Adelaide		80.0
+201-300	The University of Auckland		75.1
+201-300	The University of Hong Kong		78.4
+201-300	The University of New Mexico - Albuquerque		80.8
+201-300	The University of Newcastle, Australia		79.1
+201-300	The University of Sheffield		80.2
+201-300	Tokyo Medical and Dental University		74.0
+201-300	Tufts University		80.2
+201-300	Tulane University		75.8
+201-300	Umea University		79.3
+201-300	Universidad Europea de Madrid		93.3
+201-300	Université Grenoble Alpes		74.0
+201-300	University at Buffalo, the State University of New York		77.9
+201-300	University College Cork		92.7
+201-300	University College Dublin		80.8
+201-300	University of Antwerp		79.3
+201-300	University of Arizona		78.3
+201-300	University of Bochum		77.6
+201-300	University of California, Santa Cruz		88.3
+201-300	University of Colorado at Denver		91.5
+201-300	University of Connecticut		79.5
+201-300	University of Côte d'Azur		76.2
+201-300	University of Cyprus		93.1
+201-300	University of Eastern Finland		77.2
+201-300	Exeter University		78.9
+201-300	University of Genoa		79.2
+201-300	University of Iceland		86.9
+201-300	University of Illinois at Urbana-Champaign		79.1
+201-300	University of Jena		74.5
+201-300	University of Kentucky		77.9
+201-300	University of KwaZulu-Natal		74.8
+201-300	University of Leeds		78.4
+201-300	University of Leicester		82.6
+201-300	University of Liege		78.5
+201-300	University of Lille		77.0
+201-300	University of Lisbon		76.8
+201-300	University of Luxembourg		93.6
+201-300	University of Magdeburg		76.9
+201-300	University of Milano-Bicocca		75.0
+201-300	University of Navarra		81.6
+201-300	University of Nebraska Medical Center		76.0
+201-300	University of Nottingham		76.5
+201-300	University of Ottawa		74.6
+201-300	University of Padua		79.4
+201-300	University of Perugia		79.1
+201-300	University of South Florida		75.6
+201-300	University of Sussex		78.4
+201-300	University of Tartu		85.7
+201-300	University of the Witwatersrand		72.6
+201-300	University of Trento		82.5
+201-300	University of Turku		78.0
+201-300	University of Vermont		77.0
+201-300	University of Verona		81.2
+201-300	University of Veterinary Medicine Vienna		78.1
+201-300	Virginia Commonwealth University		77.6
+201-300	Vrije Universiteit Brussel (VUB)		79.8
+201-300	Wageningen University & Research		86.3
+201-300	Wake Forest University		77.8
+201-300	Wayne State University		75.3
+201-300	Western University		72.7
+301-400	Air Force Medical University		69.0
+301-400	Arizona State University		75.7
+301-400	Bar-Ilan University		72.6
+301-400	Beijing Normal University		70.7
+301-400	Brandeis University		83.3
+301-400	Capital Medical University		60.4
+301-400	Catholic University of the Sacred Heart		76.8
+301-400	Central South University		67.7
+301-400	Charles University in Prague		68.2
+301-400	Chiba University		74.2
+301-400	Complutense University of Madrid		68.8
+301-400	Dalhousie University		77.5
+301-400	East China Normal University		75.0
+301-400	Ecole Normale Superieure - Lyon		73.1
+301-400	Edith Cowan University		81.0
+301-400	Federal University of Rio de Janeiro		65.3
+301-400	Guangzhou Medical University		69.4
+301-400	KTH Royal Institute of Technology		79.5
+301-400	La Trobe University		74.5
+301-400	Linkoping University		80.4
+301-400	Macau University of Science and Technology		89.6
+301-400	Macquarie University		77.0
+301-400	Makerere University		68.9
+301-400	Nagoya University		64.5
+301-400	Nanjing University		68.8
+301-400	National Polytechnic Institute of Toulouse		79.8
+301-400	National Taiwan University		66.8
+301-400	National University of Ireland, Galway		84.6
+301-400	North Carolina State University - Raleigh		77.1
+301-400	Northeastern University (Boston)		82.6
+301-400	Paracelsus Private Medical University		79.3
+301-400	Pohang University of Science and Technology		78.6
+301-400	Quaid-i-Azam University		89.2
+301-400	Queen's University		76.6
+301-400	Queensland University of Technology		77.4
+301-400	Rice University		81.1
+301-400	Royal College of Surgeons - Ireland		83.8
+301-400	Saint Louis University		76.5
+301-400	San Pablo CEU University		81.3
+301-400	Scuola Superiore Sant'Anna		83.4
+301-400	Semmelweis University		67.5
+301-400	Sichuan University		61.7
+301-400	Simon Fraser University		78.5
+301-400	St George's, University of London		73.4
+301-400	Stellenbosch University		74.1
+301-400	Sungkyunkwan University		69.8
+301-400	SUNY Upstate Medical University		77.3
+301-400	Technical University of Braunschweig		82.6
+301-400	Technical University of Dortmund		90.5
+301-400	The City College of New York		89.6
+301-400	The Hong Kong University of Science and Technology		82.9
+301-400	The Open University		81.7
+301-400	The Royal Veterinary College		73.6
+301-400	The University of Georgia		69.7
+301-400	The University of Texas at Dallas		76.1
+301-400	Tohoku University		65.3
+301-400	University of Antioquia		84.9
+301-400	University of Bari		74.6
+301-400	University of Bologna		73.1
+301-400	University of Brighton		81.4
+301-400	University of California, Santa Barbara		78.3
+301-400	University of Cantabria		80.5
+301-400	University of Coimbra		74.3
+301-400	University of Electronic Science and Technology of China		79.7
+301-400	University of Florence		75.2
+301-400	University of Girona		84.7
+301-400	University of Halle-Wittenberg		75.8
+301-400	University of Hawaii at Manoa		80.7
+301-400	University of Kansas		73.7
+301-400	University of Kent		80.0
+301-400	University of Konstanz		77.2
+301-400	University of Louisiana at Lafayette		84.3
+301-400	University of Louisville		76.2
+301-400	University of Malawi		72.4
+301-400	University of Manitoba		74.5
+301-400	University of Maryland, College Park		73.1
+301-400	University of Modena and Reggio Emilia		80.5
+301-400	University of Oklahoma - Oklahoma City		75.1
+301-400	University of Orleans		78.5
+301-400	University of Otago		76.4
+301-400	University of Pavia		75.9
+301-400	University of Porto		71.4
+301-400	University of Roma - Tor Vergata		71.5
+301-400	University of Science and Technology of China		76.0
+301-400	University of Seville		71.9
+301-400	University of Siena		79.5
+301-400	University of South Australia		74.4
+301-400	University of South Carolina - Columbia		76.0
+301-400	University of Strathclyde		76.5
+301-400	University of Surrey		77.8
+301-400	University of Technology Sydney		81.2
+301-400	University of Tennessee Health Science Center		76.2
+301-400	University of Tsukuba		68.5
+301-400	University of Valencia		75.1
+301-400	University of Versailles Saint-Quentin-en-Yvelines		78.1
+301-400	University of Vienna		74.0
+301-400	University of York		76.1
+301-400	University Paris Est Creteil		78.9
+301-400	Vilnius University		83.7
+301-400	Virginia Polytechnic Institute and State University		76.3
+301-400	Xiamen University		72.5
+301-400	Yonsei University		63.4
+401-500	Albany Medical College		73.4
+401-500	Baylor University		81.4
+401-500	Ben-Gurion University of the Negev		68.2
+401-500	Bharathiar University		90.6
+401-500	Brigham Young University		74.9
+401-500	China Pharmaceutical University		76.7
+401-500	City University of Hong Kong		78.7
+401-500	Colorado State University		76.8
+401-500	Deakin University		74.8
+401-500	East China University of Science and Technology		80.3
+401-500	Federal University of Minas Gerais		64.9
+401-500	Flinders University		76.2
+401-500	Florida State University		73.4
+401-500	Griffith University		70.5
+401-500	Harbin Institute of Technology		82.9
+401-500	Hasselt University		73.4
+401-500	INSA Lyon		75.2
+401-500	International School for Advanced Studies		69.2
+401-500	Jagiellonian University		69.6
+401-500	Jean Monnet University		76.0
+401-500	Jinan University		67.0
+401-500	Juntendo University		65.0
+401-500	Kafrelsheikh University		88.4
+401-500	King Abdullah University of Science and Technology		77.3
+401-500	Korea University		66.5
+401-500	Kumamoto University		70.3
+401-500	Kuwait University		79.4
+401-500	Kwame Nkrumah University Science & Technology		75.8
+401-500	Lancaster University		79.4
+401-500	Magna Graecia University of Catanzaro		75.7
+401-500	Marche Polytechnic University		77.1
+401-500	Miguel Hernandez University of Elche		70.1
+401-500	Murdoch University		73.7
+401-500	Nanjing Medical University		66.9
+401-500	Nankai University		74.7
+401-500	National Yang Ming Chiao Tung University		65.7
+401-500	Nottingham Trent University		78.4
+401-500	Nova Southeastern University		80.0
+401-500	NOVA University Lisbon		67.4
+401-500	Okinawa Institute of Science and Technology Graduate University		77.0
+401-500	Oregon State University		79.4
+401-500	RMIT University		74.6
+401-500	Rowan University		87.6
+401-500	Saarland University		74.6
+401-500	Shandong University		58.2
+401-500	Soochow University (China)		64.2
+401-500	Southeast University		73.3
+401-500	Southern Medical University		63.5
+401-500	Tampere University		74.5
+401-500	The Graduate University for Advanced Studies		70.9
+401-500	The Second Military Medical University		65.3
+401-500	Tianjin Medical University		66.3
+401-500	Tokyo University of Science		70.5
+401-500	Tongji University		64.3
+401-500	Uniformed Services University of the Health Sciences - USA		74.6
+401-500	Universidad de Las Palmas de Gran Canaria		75.2
+401-500	Universitat de Vic - Universitat Central de Catalunya		79.4
+401-500	University of Arkansas for Medical Sciences		75.5
+401-500	University of Bath		78.9
+401-500	University of Cagliari		72.2
+401-500	University of California, Riverside		76.9
+401-500	University of Campania Luigi Vanvitelli		75.5
+401-500	University of Clermont Auvergne		75.3
+401-500	University of Crete		77.7
+401-500	University of East Anglia		73.5
+401-500	University of Fribourg		72.8
+401-500	University of Giessen		69.3
+401-500	University of Graz		74.7
+401-500	University of Hertfordshire		82.0
+401-500	University of Houston		72.3
+401-500	University of Innsbruck		79.9
+401-500	University of Malta		74.5
+401-500	University of Messina		82.3
+401-500	University of Minho		72.0
+401-500	University of Mississippi		74.0
+401-500	University of Nantes		71.9
+401-500	University of Oklahoma Health Sciences Center		72.4
+401-500	University of Oregon		81.1
+401-500	University of Oulu		73.6
+401-500	University of Oviedo		72.0
+401-500	University of Parma		76.4
+401-500	University of Pisa		75.8
+401-500	University of Plymouth		74.8
+401-500	University of Rijeka		73.6
+401-500	University of Rostock		71.3
+401-500	University of Salamanca		73.2
+401-500	University of Salerno		76.2
+401-500	University of Salzburg		75.6
+401-500	University of Sherbrooke		75.8
+401-500	University of St Andrews		77.7
+401-500	University of Texas Rio Grande Valley		80.6
+401-500	University of the Basque Country		69.8
+401-500	University of Westminster		82.8
+401-500	University of Zambia		74.0
+401-500	University of Zaragoza		72.9
+401-500	Western Sydney University		72.0
+401-500	Wuhan University		63.7
+401-500	Yokohama City University		71.9
